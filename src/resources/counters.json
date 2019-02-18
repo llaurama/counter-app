@@ -1,0 +1,24 @@
+{
+  "counters": [
+    {
+      "id": 1,
+      "name": "SSD",
+      "value": 3
+    },
+    {
+      "id": 2,
+      "name": "Camera",
+      "value": 3
+    },
+    {
+      "id": 3,
+      "name": "iPhone 8",
+      "value": 3
+    },
+    {
+      "id": 4,
+      "name": "Samsung 6S Edge",
+      "value": 3
+    }
+  ]
+}
